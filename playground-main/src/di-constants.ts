@@ -1,0 +1,1 @@
+export const WALLET_SERVICE_CLIENT = Symbol('WALLET_SERVICE_CLIENT');
